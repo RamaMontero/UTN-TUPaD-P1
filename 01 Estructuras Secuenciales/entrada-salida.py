@@ -1,0 +1,5 @@
+print ("Hola! vamos a ver como funciona la función print e imput")
+nombre = input ("Por favor, escribe tu nombre:")
+print ("Mucho gusto" + nombre + "!")
+edad = input ("¿Cuántos años tiene?")
+print ("Wow " + edad + " años, estas listo para programar")
